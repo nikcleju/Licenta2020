@@ -1,20 +1,18 @@
-Idei licenta
+# Idei licenta
 
 
-
-
-# Parking Spotter
+## Parking Spotter
 
 https://www.parking-spotter.com/
 
 ![Parking Spotter](img/ParkingSpotter.jpeg)
 
 
-# Car Distance Estimator
+## Car Distance Estimator
 
 ![Car Distance Estimator](img/CarDistanceEstimator.png)
 
-# Lane detection
+## Lane detection
 
 ![Lane detection](img/LaneDet.png)
 
@@ -22,9 +20,7 @@ https://medium.com/computer-car/udacity-self-driving-car-nanodegree-project-1-fi
 
 
 
-# Traffic Sign Detection
+## Traffic Sign Detection
 
 ![Traffic Sign](img/TrafficSignDet.png)
 
-
-# 
