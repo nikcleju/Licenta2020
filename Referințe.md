@@ -11,3 +11,9 @@
 
 * Exemplu de lucrare licență: [aici](https://github.com/nikcleju/Licenta2020/blob/master/Exemplu_Licenta.pdf)
 
+
+Librarii utilizate in Python:
+
+- Librarii generale de procesare a datelor: Numpy
+
+- Librarii specifice Neural Networks: OpenCV, Keras, Tensorflow
