@@ -1,12 +1,14 @@
 # Resurse 
 
-* Cursuri video Deep Learning pe Coursera: [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
+* **Referinta nr.1:** Cursuri video dedicate pentru procesarea de imagini/video (Curs Stanford CS231): [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 
-* Detecția obiectelor cu YOLO object detector: [https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
+* Cursuri video despre relete neurale in general (Coursera): [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
+
+* Tutorial detecția obiectelor cu YOLO object detector: [https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
 
 * Carte dl. prof. Ciocoiu: [https://github.com/nikcleju/Licenta2019/blob/master/cartenn.zip](https://github.com/nikcleju/Licenta2019/blob/master/cartenn.zip)
     * Parola este numărul unei grupe (xxx1)
-    
+
 * O carte în engleză (format html): [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
 * Exemplu de lucrare licență: [aici](https://github.com/nikcleju/Licenta2020/blob/master/Exemplu_Licenta.pdf)
